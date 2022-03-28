@@ -1,0 +1,1 @@
+GenericExceptions.java is incorrect. It should be have catch block which contains Exception as a type of exception, which is generic exception
